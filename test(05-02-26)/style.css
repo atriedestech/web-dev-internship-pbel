@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+}
+
+div {
+    text-align: center;
+    color: darkblue;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+span {
+    background-color: yellow;
+    text-decoration: underline;
+}
+
+/* link */
+a {
+    color: red;
+}

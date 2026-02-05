@@ -1,0 +1,23 @@
+/* Question 1: Div Styling */
+#box {
+    background-color: blue;
+}
+
+#name {
+    color: gold;
+    background-color: violet;
+    height: 50px;
+    width: 50px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: green;
+    border-radius: 50%;
+}
+
+
+
+
+/* Question 2: Heading Elements */
+.heading {
+    color: red;
+}
