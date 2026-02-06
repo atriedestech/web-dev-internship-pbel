@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ede9fe;
+}
+
+div {
+    height: 150px;
+    width: 150px;
+    background-color: #a78bfa;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+}
+
+@media(min-width:500px) {
+    body {
+        background-color: #ffe4e6;
+    }
+
+    div {
+        background-color: #fb7185;
+    }
+}
